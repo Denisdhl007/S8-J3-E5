@@ -1,5 +1,5 @@
 // // // > https://developer.mozilla.org/fr/docs/Web/API/Node/removeChild
-// // // > Avec la methode removeChild()
+// // > Avec la methode removeChild()
 // // // ## 1. 
 // // // - Utilise le second bouton pour supprimer le premier enfant
 // // // ## 2. 
@@ -10,6 +10,7 @@
 
 // // // > https://developer.mozilla.org/fr/docs/Web/API/Node/replaceChild
 // // // > Avec la methode replaceChild()
+
 
 let button = document.querySelectorAll("input");
 
